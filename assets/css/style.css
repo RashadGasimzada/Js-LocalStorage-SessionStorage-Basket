@@ -1,0 +1,9 @@
+.fa-times {
+    color: red;
+    top: 5px;
+    right: 50px;
+    position: absolute;
+}
+.position {
+    position: relative;
+}
